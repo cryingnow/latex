@@ -1,5 +1,5 @@
 # latex
-# 我是5358950洞的洞主
+我是PKU树洞5358950洞的洞主
 LaTeX从零开始完整指南（全部是我自己踩过的雷和找到的好教程）
 1.[overleaf快速入门](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
@@ -27,4 +27,4 @@ B.[创建一个文件夹存放图片。设置Paste Image快捷键粘贴图片默
         "files.encoding": "utf8"
     },  的设置格式设置不同文件（比如.cpp）保存格式。
 
-小白入门头一回，跌跌撞撞不断踩雷，希望对洞友可以有所帮助
+小白入门头一回，跌跌撞撞不断踩雷，希望对大家可以有所帮助
