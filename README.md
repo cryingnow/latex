@@ -1,6 +1,7 @@
 # latex
 我是PKU树洞5358950洞的洞主
-LaTeX从零开始完整指南（全部是我自己踩过的雷和找到的好教程）
+LaTeX从零开始完整指南（全部是我自己踩过的雷和找到的好教程）：
+
 1.[overleaf快速入门](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 2.[PKU LaTeX网站](https://latex.pku.edu.cn)
