@@ -16,6 +16,7 @@ A.首先下载Paste Image插件，该插件可以保证crtl+alt+v快捷键直接
 B.[创建一个文件夹存放图片。设置Paste Image快捷键粘贴图片默认存放位置](https://blog.csdn.net/javahighness/article/details/90454136?spm=1001.2014.3001.5506)
 
 4.关于LaTeX语法，学习了B站以下视频：
+
 ①[video1](https://www.bilibili.com/video/BV15x411j7k6/?spm_id_from=333.999.0.0&vd_source=db6edf094802fef6bc67dbf99244ba0c)
 
 ②[video2](https://www.bilibili.com/video/BV11h41127FD/?spm_id_from=333.999.0.0&vd_source=db6edf094802fef6bc67dbf99244ba0c)
