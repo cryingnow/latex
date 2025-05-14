@@ -1,9 +1,9 @@
 # latex
 LaTeX从零开始完整指南：
 ## 入门
-1.[overleaf快速入门](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-2.[PKU LaTeX网站](https://latex.pku.edu.cn)
-3.[VsCode配置LaTeX教程](https://zhuanlan.zhihu.com/p/166523064)    
+1. [overleaf快速入门](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+2. [PKU LaTeX网站](https://latex.pku.edu.cn)
+3. [VsCode配置LaTeX教程](https://zhuanlan.zhihu.com/p/166523064)    
 (这是我读了n多教程觉得最好的一篇，讲解了settings.json配置的原理)。
 4. 注意：
   - 不要尝试清除aux/bib/bbl等编译产生的文件，在引用插图、图表、文献时这些文件有用处，所以clean设置为onFailed就好。
